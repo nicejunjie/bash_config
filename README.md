@@ -1,2 +1,2 @@
-# bash_config
-my common bash configs
+# bash config
+My handy configs files 
